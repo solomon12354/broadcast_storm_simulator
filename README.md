@@ -7,4 +7,4 @@ Most commonly the cause is a switching loop in the Ethernet network topology (i.
 
 In my project, it has a loop that it will cause the broadcast storm. You can download and put all file on the OMNet++ or the other network simulation.
 
-<img src=https://github.com/solomon12354/broadcast_storm_simulator/blob/main/simulation.JPG?raw=true></img>
+<img src="https://github.com/solomon12354/broadcast_storm_simulator/blob/main/simulation.JPG?raw=true"></img>
